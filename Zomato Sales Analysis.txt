@@ -1,0 +1,41 @@
+
+# FINAL PROJECT: ZOMATO SALES ANALYSIS
+
+In this project, we have been hired as a junior analyst for Zomato. Zomato is a multinational restaurant aggregator and food delivery company. As my first assignment in the onboarding process, I have been given several test datasets to analyze the business performance of restaurants and customers registered in the service. 
+
+We have prepared a Sales Analysis: sales dynamics over time, main KPIs, and change in sales distribution.
+
+## POWER BI WORKBOOK
+
+(https://drive.google.com/file/d/1LflPPXSAsZ8yhSm7i7yYxmPB0skTPRWW/view?usp=drive_link)
+
+## PROJECT OVERVIEW
+
+This project aims to create a comprehensive sales Analysis for Zomato, a leading multinational restaurant aggregator and food delivery company. We will visualize key sales metrics between October 2017 and June 2020, and derive insights to support strategic decision-making.
+
+## TOOLS USED
+
+- Power BI
+- Excel
+
+## CONCLUSION 
+
+Conclusion
+Zomato's sales data analysis from October 2017 to June 2020 highlights several strategic opportunities to boost growth and customer engagement. By focusing marketing efforts on high-performing cities, expanding offerings in both traditional Indian and popular international cuisines, and leveraging peak ordering periods, Zomato can capitalize on existing trends. Targeted promotions for key demographics such as students, single-person households, and specific age groups, along with initiatives to increase family and employee engagement, can further drive sales. Addressing periods of decline with strategic promotions and understanding the underlying factors can help maintain consistent performance. Implementing these recommendations will enable Zomato to enhance its market presence, cater to diverse customer preferences, and achieve sustained growth in the competitive food delivery industry.
+
+Proposed Next Steps
+- Target High-Performing Cities.
+- Diversify with Popular International Cuisines.
+- Leverage Peak Ordering Months.
+- Analyze and Recover from Sales Drops.
+- Engage the Student Market.
+- Enhance Offerings for Single-Person Households.
+- Tailor Promotions by Age and Gender.
+- Boost Employee Engagement.
+
+By implementing these steps, we aim to improve sales, customer satisfaction, and regional performance, thereby driving profitability.
+
+## CONTACT INFORMATION
+
+- Jorge Norena 
+  - Email: [jorgenorena1980@gmail.com](mailto:jorgenorena1980@gmail.com)

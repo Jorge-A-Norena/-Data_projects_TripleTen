@@ -4,8 +4,6 @@ The superstore is in peril! You have been hired as a consultant to review the su
 
 For each question, you should prepare an individual visualization that justifies your conclusion.
 
-![SuperStore](image_link)
-
 ## Part 1: Profits & losses
 
 First, we'll try to identify the important centers of profit and loss for the superstore.
